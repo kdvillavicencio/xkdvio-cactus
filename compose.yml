@@ -3,5 +3,5 @@ services:
     image: astro
     ports:
       - 4321:4321
-    # volumes:
-    #   - ./content:./app/dist/content
+    volumes:
+      - ./content:./app/dist/content
