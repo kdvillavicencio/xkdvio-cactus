@@ -1,0 +1,7 @@
+services:
+  blog:
+    image: astro
+    ports:
+      - 4321:4321
+    # volumes:
+    #   - ./content:./app/dist/content
