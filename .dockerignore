@@ -1,0 +1,9 @@
+.github
+.vscode
+.zed
+
+node_modules
+dist
+content
+
+compose.yml
