@@ -25,4 +25,4 @@ pnpm-debug.log*
 .astro
 
 # content
-content/
+content
